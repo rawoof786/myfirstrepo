@@ -1,0 +1,93 @@
+ 1  yum install git -y
+    2  git clone git@github.com:rawoof786/mysecondrepo.git
+    3  ssh-keygen
+    4  ll -a
+    5  cd .ssh
+    6  ll
+    7  git clone git@github.com:rawoof786/mysecondrepo.git
+    8  ll
+    9  git -v
+   10  git clone git@github.com:rawoof786/myfirstrepo.git
+   11  cat id_rsa.pub
+   12  cd
+   13  git clone git@github.com:rawoof786/myfirstrepo.git
+   14  ll
+   15  cd myfirstrepo
+   16  ll
+   17  git remote rm origin
+   18  ll
+   19  cd
+   20  ll
+   21*
+   22  ll\
+   23  ll
+   24  cd myfirstrepo
+   25  ll
+   26  ll -a
+   27  pwd
+   28  cd
+   29  ll
+   30  touch linuxpractice
+   31  git status
+   32  ll
+   33  rm *
+   34  ll
+   35  cd myfirstrepo
+   36  touch linuxpractice
+   37  git status
+   38  git add *
+   39  ll
+   40  git log
+   41  git status
+   42  vim linuxpractice
+   43  uname
+   44  uname -r
+   45  uname -a
+   46  uptime
+   47  uptime -p
+   48  uptime -s
+   49  hostname
+   50  hostname -i
+   51  last reboot
+   52  ipaddr
+   53  ip addr
+   54  ip route
+   55  ifconfig
+   56  if config
+   57  ifconfig
+   58  date
+   59  date +%d"
+   60  date + "%d"
+   61  date +"%d"
+   62  date +"%m"
+   63  date +"%y"
+   64  date +"%H"
+   65  date +"%M"
+   66  date +"%S"
+   67  date +"%D"
+   68  date +"%F"
+   69  date +"%A"
+   70  date +"%B"
+   71  who
+   72  pwd
+   73  whoami
+   74  top
+   75  ps
+   76  lscpu
+   77  lsblh -a
+   78  lsblk -a
+   79  free
+   80  free -m
+   81  free -h
+   82  df
+   83  df -h
+   84  du myfirstrepo
+   85  cat /proc/cpuinfo
+   86  cat /proc/meminfo
+   87  fdisk -l
+   88  fdisk -s /xvda1
+   89  fdisk -s 24575
+   90  fdisk -s /dev/xvda1
+   91  fdisk -s /dev/xvda127
+   92  fdisk -s /dev/xvda128
+
