@@ -90,4 +90,7 @@
    90  fdisk -s /dev/xvda1
    91  fdisk -s /dev/xvda127
    92  fdisk -s /dev/xvda128
+I want to connect from  ssh port to http port
+
+
 
